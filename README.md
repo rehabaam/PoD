@@ -17,10 +17,6 @@ For this, please replace the RNAudioPlayer.m with the one under "Modified RN lib
 
 Application Screen Recording:
 ----------------------------
-iPhone:
+iPhone: file in "App other files/Screen recording/iPhone.MP4"
 
-![video|small](App other files/Screen recording/iPhone.MP4) 
-
-Android:
-
-![video|small]((App other files/Screen recording/Android.mp4) 
+Android: file in App other files/Screen recording/Android.mp4"
