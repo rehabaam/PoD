@@ -1,0 +1,7 @@
+rootProject.name = 'PoD'
+include ':react-native-streaming-audio-player'
+project(':react-native-streaming-audio-player').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-streaming-audio-player/android')
+include ':react-native-splash-screen'
+project(':react-native-splash-screen').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-splash-screen/android')
+
+include ':app'
