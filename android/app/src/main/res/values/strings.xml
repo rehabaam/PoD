@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">PoD</string>
+    <string name="podArabic">تطبيق
+        اصحاب الهمم
+    </string>
+    <string name="podTevoi">Powered by Tevoi</string>
 </resources>
