@@ -1,13 +1,12 @@
-Tevoi PoD mobile appliation
--------------------------------
+PoD mobile appliation
+---------------------
 
 About:
 ------
-This application is developed with React-Native created by Facebook.inc..
 
+This app simulates listening to IVR (Interactive Voice Respose) menus by using touch gestures. Audio files can be shipped with the app or located in a remote server.
 
-This will be updated every now and then till the final application is ready for demo-ing.
-
+This application is developed with React-Native by Facebook.inc.
 
 How to use:
 -----------
